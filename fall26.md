@@ -13,3 +13,4 @@ Add your name to the list below and link to your GitHub profile. Additionally, y
 
 ## Students
 
+[Maxwell Dunday](https://github.com/MaxDunday) - Automation Student, loves Judo , and arnold palmer (the drink)
